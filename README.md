@@ -1,10 +1,10 @@
-# Perosnal portfolio website [ ReactJS and Tailwind css]
+# Personal portfolio website [ ReactJS and Tailwind css]
 
 This README file provides an overview of my portfolio project built with ReactJS and Tailwind CSS. It includes information about the project, installation instructions, and details about the libraries used.
 
 ## Online Link
 
-An online version of the portfolio project is available at https://rimshadev-portfolio.vercel.app/. You can visit this link to see the project in action and explore its features.
+An online version of the portfolio project is available at https://anubhutisinha04.github.io. You can visit this link to see the project in action and explore its features.
 
 ## Project Overview
 
@@ -44,12 +44,3 @@ The following libraries were used in the development of this project:
 
 - `@emailjs/browser`: Enables sending emails directly from the portfolio project.
   - Installation command: `npm install @emailjs/browser`
-
-
-## Contributing
-
-Contributions to this project are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request. Alternatively, you can open an issue to report any problems or provide feedback. 
-
-## License
-
-The portfolio project is released under the [MIT License](LICENSE). Feel free to modify and use it for personal or commercial projects. However, make sure to include the original license file when distributing or sharing the code.
