@@ -1,6 +1,7 @@
 import React from "react";
 // import Typed from 'react-typed';
-import myImage from "./../assets/main_image.png";
+//import myImage from "./../assets/main_image.png";
+import Hero from "./../assets/portfolioImages/hero-icon.png";
 import { AiFillLinkedin, AiFillGithub } from "react-icons/ai";
 import Typewriter from "./Typewriter";
 import { PiFilePdfBold } from "react-icons/pi";
@@ -40,7 +41,7 @@ function Main() {
           <div className="box">
             <div className="h-full justify-end flex items-center sm:justify-center">
               <img
-                src={myImage}
+                src={Hero}
                 alt="main"
                 className="h-[80%] min-h-[100px] min-w-[100px] tm:h-[36px] tm:mt-[200px] sm:min-h-[100px] sm:min-w-[100px] sm:ml-[30px]"
               />
