@@ -1,7 +1,7 @@
 const expData = [
   {
     id: "1",
-    org: "Systel Inc",
+    org: "Kaiser",
     title: "Frontend Engineer",
     location: "Remote, US",
     date: "July 2024 - Present",
