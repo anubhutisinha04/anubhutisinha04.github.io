@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1cb656af.css",
+    "main.js": "/static/js/main.af0ba49e.js",
+    "static/media/omnifood.png": "/static/media/omnifood.294b46a654232e9a7f1c.png",
+    "static/media/hero-icon.png": "/static/media/hero-icon.83d9b9043ab933b46652.png",
+    "static/media/splitwise.jpeg": "/static/media/splitwise.3364bd9dbfaa6fc2bdd4.jpeg",
+    "static/media/resume.pdf": "/static/media/resume.0876bd0b3fe783e2eb0c.pdf",
+    "static/media/travel.jpeg": "/static/media/travel.5558e7c1e96346ca6044.jpeg",
+    "static/media/popcorn.jpeg": "/static/media/popcorn.fc70912c0aaf4cb7466d.jpeg",
+    "index.html": "/index.html",
+    "main.1cb656af.css.map": "/static/css/main.1cb656af.css.map",
+    "main.af0ba49e.js.map": "/static/js/main.af0ba49e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cb656af.css",
+    "static/js/main.af0ba49e.js"
+  ]
+}
